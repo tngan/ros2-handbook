@@ -10,6 +10,8 @@ Maintainers: [Tony Ngan](https://github.com/tngan)
 
 ## Projects
 
+- [RCL C++](https://github.com/ros2/rclcpp): C++ ROS client library
+- [RCL Python](https://github.com/ros2/rclpy): Python ROS client library
 - [RCL C#](https://github.com/firesurfer/rclcs): C# ROS client library
 - [RCL Java](https://github.com/esteve/ros2_java): Java ROS client library
 
