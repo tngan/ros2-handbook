@@ -1,4 +1,4 @@
-# misc-ros2
+# ros2-handbook
 
 A curated list of resources/materials related to the Robot Operating System 2 (ROS 2).
 
